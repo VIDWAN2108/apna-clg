@@ -1,2 +1,2 @@
 # apna-clg
-this is a demo for a Git and Github class
+this is a demo for a Git and Github class.
